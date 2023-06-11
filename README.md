@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ayesha Sami</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
+   
+<div style="text-align: center;">
+  <a href="https://github.com/Ayeshaaa777/github-profile-trophy" style="display: inline-block;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayeshaaa777&theme=onedark" alt="trophy">
+  </a>
+</div>
+
 
 
 <img align="right" alt="coding" width=400 src="https://media.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayeshaaa777" alt="ayeshaaa777" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced python, Artificial Intelligence and Machine learning**
 
